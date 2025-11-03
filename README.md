@@ -123,7 +123,7 @@ Friz is focused on building **local‑first RAG and agentic systems** for produc
 
 ## Collaboration
 
-* Language: English
+* Language: English | Russian
 * Typical response time: within 24 hours
 * Preferred comms: Programming/Engineering → Telegram
 * Code reviews: small PRs; **rebase** when merging into feature branches; **merge** when merging into DEV / Test / Master
