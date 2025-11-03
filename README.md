@@ -117,7 +117,7 @@ Friz is focused on building **local‑first RAG and agentic systems** for produc
 * OS: Fedora 42 • EndeavourOS (Wayland, Hyprland)
 * Editor: VS Code (zsh + oh‑my‑zsh; Neovim in terminal)
 * Containers: Docker Compose; local caches for HF/Ollama/torch
-* Dotfiles: [[link]](https://github.com/FRIZFOREVER/frizforever)
+* Dotfiles: [[Fedora 42]](https://github.com/FRIZFOREVER/frizforever)
 
 ---
 
