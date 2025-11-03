@@ -19,9 +19,9 @@ I'm focused on building **local‑first RAG and agentic systems** for production
 
 <!-- Widgets (active) -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=\[GITHUB_HANDLE]\&show_icons=true)
-![Visitors](https://komarev.com/ghpvc/?username=\[GITHUB_HANDLE]\&style=flat-square\&label=Visitors)
-![Last Updated](https://img.shields.io/github/last-commit/\[GITHUB_HANDLE]/\[GITHUB_HANDLE]?label=last%20updated)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=\[frizforever]\&show_icons=true)
+![Visitors](https://komarev.com/ghpvc/?username=\[frizforever]\&style=flat-square\&label=Visitors)
+![Last Updated](https://img.shields.io/github/last-commit/\[frizforever]/\[frizforever]?label=last%20updated)
 
 ---
 
@@ -134,11 +134,11 @@ I'm focused on building **local‑first RAG and agentic systems** for production
 
 ---
 
-## Optional Banners (choose one and delete the rest)
+## Optional Banners
 
 ![Capsule](https://capsule-render.vercel.app/api?type=waving\&height=160\&text=Friz\&fontAlign=50\&desc=RAG%20%7C%20Agents%20%7C%20NLP\&descAlign=50)
-![Subtle Grid](/assets/banner-grid.png)
-![Dark Minimal](/assets/banner-dark.png)
+<!-- ![Subtle Grid](/assets/banner-grid.png) 
+![Dark Minimal](/assets/banner-dark.png) -->
 
 ---
 
