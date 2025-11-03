@@ -36,7 +36,7 @@ Friz is focused on building **local‑first RAG and agentic systems** for produc
 
 ---
 
-## Toolbox (badges)
+## Toolbox
 
 <!-- OS / Env -->
 
@@ -81,7 +81,7 @@ Friz is focused on building **local‑first RAG and agentic systems** for produc
 
 ---
 
-## RAG & Agentic Approach (snapshot)
+## RAG & Agentic Approach
 
 * **Retrieval strategies:** RAPTOR · CRAG · HyDE · RAG‑Fusion (plus hybrid baselines)
 * **Embeddings:** Qwen3‑Embedding‑4B · Sentence‑BERT (sBERT)
@@ -117,7 +117,7 @@ Friz is focused on building **local‑first RAG and agentic systems** for produc
 * OS: Fedora 42 • EndeavourOS (Wayland, Hyprland)
 * Editor: VS Code (zsh + oh‑my‑zsh; Neovim in terminal)
 * Containers: Docker Compose; local caches for HF/Ollama/torch
-* Dotfiles: [add link]
+* Dotfiles: [[link]](https://github.com/FRIZFOREVER/frizforever)
 
 ---
 
