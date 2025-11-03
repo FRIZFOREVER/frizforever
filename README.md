@@ -46,12 +46,24 @@ Friz is focused on building **local‑first RAG and agentic systems** for produc
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker\&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-dependency%20manager-333333)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI-121212)
 
 <!-- Languages -->
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python\&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash\&logoColor=white)
+
+<!-- General ML -->
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF4A00)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00)
+
 
 <!-- RAG/Agents stack -->
 
