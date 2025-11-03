@@ -62,6 +62,7 @@ Friz is focused on building **local‑first RAG and agentic systems** for produc
 ![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20DB-FF4D4D)
 ![SGLang](https://img.shields.io/badge/SGLang-Server-111827)
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-2D333A)
+![vLLM](https://img.shields.io/badge/vLLM-Server-1E90FF)
 ![PEFT](https://img.shields.io/badge/PEFT-LoRA-8A2BE2)
 
 <!-- Databases / Storage -->
