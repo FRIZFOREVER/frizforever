@@ -90,8 +90,6 @@ Friz is focused on building **local‑first RAG and agentic systems** for produc
 ![Ragas](https://img.shields.io/badge/Ragas-evals-6E56CF)
 ![G--Eval](https://img.shields.io/badge/G--Eval-evals-334155)
 
-> Prefers **local‑only** for development.
-
 ---
 
 ## RAG & Agentic Approach
