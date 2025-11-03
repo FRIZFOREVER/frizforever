@@ -21,7 +21,7 @@ Friz is focused on building **local‑first RAG and agentic systems** for produc
 
 <!-- Widgets (active) -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FRIZFOREVER\&show_icons=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FRIZFOREVER\&show_icons=true) -->
 ![Visitors](https://komarev.com/ghpvc/?username=FRIZFOREVER\&style=flat-square\&label=Visitors)
 ![Last Updated](https://img.shields.io/github/last-commit/FRIZFOREVER/FRIZFOREVER?label=last%20updated)
 
