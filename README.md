@@ -1,10 +1,12 @@
 <!-- GitHub Profile README for Friz | generated with your preferences -->
 
-<!-- Replace [GITHUB_HANDLE], fill placeholders like [ADD LINK], and delete any sections you don't want. -->
+<!-- Replace FRIZFOREVER, fill placeholders like [ADD LINK], and delete any sections you don't want. -->
 
 # Friz — Senior ML Engineer: NLP | RAG | Agents
 
-I'm focused on building **local‑first RAG and agentic systems** for production. I'm prioritising reproducibility, observability, and clean engineering over hype.
+![Capsule](https://capsule-render.vercel.app/api?type=waving\&height=160\&text=Friz\&fontAlign=50\&desc=RAG%20%7C%20Agents%20%7C%20NLP\&descAlign=50)
+
+Friz is focused on building **local‑first RAG and agentic systems** for production. He prioritises reproducibility, observability, and clean engineering over hype.
 
 ---
 
@@ -14,14 +16,14 @@ I'm focused on building **local‑first RAG and agentic systems** for production
 
 * Email: [kirillhromov@mail.ru](mailto:kirillhromov@mail.ru)
 * Telegram: @FRIZFOREVER · Discord: frizforever
-<!-- * [LinkedIn]()-->
+<!-- * [LinkedIn]() -->
 * Time zone: UTC+3
 
 <!-- Widgets (active) -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=\FRIZFOREVER\&show_icons=true)
-![Visitors](https://komarev.com/ghpvc/?username=\FRIZFOREVER\&style=flat-square\&label=Visitors)
-![Last Updated](https://img.shields.io/github/last-commit/\FRIZFOREVER/\FRIZFOREVER?label=last%20updated)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FRIZFOREVER\&show_icons=true)
+![Visitors](https://komarev.com/ghpvc/?username=FRIZFOREVER\&style=flat-square\&label=Visitors)
+![Last Updated](https://img.shields.io/github/last-commit/FRIZFOREVER/FRIZFOREVER?label=last%20updated)
 
 ---
 
@@ -29,7 +31,7 @@ I'm focused on building **local‑first RAG and agentic systems** for production
 
 * **Core focus:** RAG ▸ Agents ▸ NLP
 * **Current goal:** Personal startup development
-* **Passion:** Everything about RAG
+* **Passion:** All things RAG
 * **Open to:** Work · Contribute · Contracting · Experience exchange
 
 ---
@@ -82,11 +84,11 @@ I'm focused on building **local‑first RAG and agentic systems** for production
 ## RAG & Agentic Approach (snapshot)
 
 * **Retrieval strategies:** RAPTOR · CRAG · HyDE · RAG‑Fusion (plus hybrid baselines)
-* **Embeddings:** Qwen3‑Embedding · Sentence‑BERT (sBERT)
+* **Embeddings:** Qwen3‑Embedding‑4B · Sentence‑BERT (sBERT)
 * **Re‑ranking:** Qwen3‑Reranker
 * **Chunking options:** classic (fixed/overlap) · structure‑based · semantic‑based · ML/LLM‑guided
 * **Agent loop:** ReAct
-* **Reasoning/guardrails:** Schema‑guided reasoning (LLM_under_the_hood)
+* **Reasoning/guardrails:** Schema‑guided reasoning (LLM_under_the_hood, RU)
 
 ---
 
@@ -131,14 +133,6 @@ I'm focused on building **local‑first RAG and agentic systems** for production
 ## Reading / Survey
 
 * LIMI: *Less is More for Agency* — arXiv: [https://arxiv.org/abs/2509.17567](https://arxiv.org/abs/2509.17567)
-
----
-
-## Optional Banners
-
-![Capsule](https://capsule-render.vercel.app/api?type=waving\&height=160\&text=Friz\&fontAlign=50\&desc=RAG%20%7C%20Agents%20%7C%20NLP\&descAlign=50)
-<!-- ![Subtle Grid](/assets/banner-grid.png) 
-![Dark Minimal](/assets/banner-dark.png) -->
 
 ---
 
