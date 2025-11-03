@@ -19,9 +19,9 @@ I'm focused on building **local‑first RAG and agentic systems** for production
 
 <!-- Widgets (active) -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=\[frizforever]\&show_icons=true)
-![Visitors](https://komarev.com/ghpvc/?username=\[frizforever]\&style=flat-square\&label=Visitors)
-![Last Updated](https://img.shields.io/github/last-commit/\[frizforever]/\[frizforever]?label=last%20updated)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=\frizforever\&show_icons=true)
+![Visitors](https://komarev.com/ghpvc/?username=\frizforever\&style=flat-square\&label=Visitors)
+![Last Updated](https://img.shields.io/github/last-commit/\frizforever/\frizforever?label=last%20updated)
 
 ---
 
