@@ -31,7 +31,7 @@ Friz is focused on building **local‑first RAG and agentic systems** for produc
 
 * **Core focus:** RAG ▸ Agents ▸ NLP
 * **Current goal:** Personal startup development
-* **Passion:** All things RAG
+* **Passion:** Everything about RAG
 * **Open to:** Work · Contribute · Contracting · Experience exchange
 
 ---
