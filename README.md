@@ -100,11 +100,11 @@ My core prioritises are:
 ## RAG & Agentic Approach
 
 * **Retrieval strategies:** RAPTOR · CRAG · HyDE · RAG‑Fusion (plus hybrid baselines)
-* **Embeddings:** Qwen3‑Embedding‑4B · Sentence‑BERT (sBERT)
+* **Embeddings:** Qwen3‑Embedding · Sentence‑BERT (sBERT)
 * **Re‑ranking:** Qwen3‑Reranker
 * **Chunking options:** classic (fixed/overlap) · structure‑based · semantic‑based · ML/LLM‑guided
 * **Agent loop:** ReAct
-* **Reasoning/guardrails:** Schema‑guided reasoning (LLM_under_the_hood, RU)
+* **Reasoning/guardrails:** Schema‑guided reasoning (LLM_under_the_hood, Neural_Covalski, RU)
 
 ---
 
