@@ -132,7 +132,7 @@ My core prioritises are:
 
 * OS: Fedora 42 • EndeavourOS (Wayland, Hyprland)
 * Editor: VS Code (zsh + oh‑my‑zsh; Neovim in terminal)
-* Containers: Docker Compose; local caches for HF/Ollama/torch
+* Containers: Docker, Compose
 * Dotfiles: [[Fedora 42]](https://github.com/FRIZFOREVER/frizforever)
 
 ---
