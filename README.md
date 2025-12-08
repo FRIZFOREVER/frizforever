@@ -42,10 +42,10 @@ My core prioritises are:
 ---
 
 ### 🧰 Toolbox
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=neovim,linux,docker,git,fastapi,postgres&perline=10" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=neovim,linux,docker,git,postgres&perline=10" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,rust,bash,grafana,pytest&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,sklearn,grafana,pytest&perline=10" />
 </div>
 
 <!-- OS / Env -->
@@ -53,24 +53,14 @@ My core prioritises are:
 ![Fedora](https://img.shields.io/badge/Fedora-42-294172?logo=fedora\&logoColor=white)
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-BC5CFF?logo=endeavouros\&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-Wayland-0E7490)
-![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker\&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-dependency%20manager-333333)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI-121212)
-
-<!-- Languages -->
-
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python\&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash\&logoColor=white)
 
 <!-- General ML -->
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF4A00)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00)
 
@@ -95,7 +85,6 @@ My core prioritises are:
 
 <!-- Observability / Evals -->
 
-![Grafana](https://img.shields.io/badge/Grafana-FF6A00?logo=grafana\&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-2E2E2E)
 ![pytest](https://img.shields.io/badge/pytest-tests-0A9EDC)
 ![Ragas](https://img.shields.io/badge/Ragas-evals-6E56CF)
