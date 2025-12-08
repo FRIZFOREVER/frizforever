@@ -81,6 +81,7 @@ My core prioritises are:
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-2D333A)
 ![vLLM](https://img.shields.io/badge/vLLM-Server-1E90FF)
 ![PEFT](https://img.shields.io/badge/PEFT-LoRA-8A2BE2)
+![Unsloth](https://img.shields.io/badge/Unsloth-LLM%20fine--tuning-4F46E5)
 
 <!-- Databases / Storage -->
 
