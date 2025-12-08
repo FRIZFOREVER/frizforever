@@ -98,6 +98,19 @@ My core prioritises are:
 
 ---
 
+## Toolbox
+
+| Area              | Tools                                                                                |
+|-------------------|--------------------------------------------------------------------------------------|
+| OS / Env          | Fedora 42, EndeavourOS, Hyprland (Wayland), Docker, uv, FastAPI, Uvicorn            |
+| Languages         | Python 3.12, Rust, Bash                                                              |
+| General ML        | NumPy, SciPy, Pandas, PyTorch, scikit-learn, XGBoost, CatBoost                       |
+| RAG / Agents      | LangChain, LangGraph, Transformers, FAISS, Qdrant, SGLang, Ollama, vLLM, PEFT, Unsloth |
+| Databases / Store | PostgreSQL, MinIO (S3)                                                               |
+| Observability     | Grafana, Langfuse, pytest, Ragas, G-Eval                                             |
+
+---
+
 ## RAG & Agentic Approach
 
 * **Retrieval strategies:** RAPTOR · CRAG · HyDE · RAG‑Fusion (plus hybrid baselines)
