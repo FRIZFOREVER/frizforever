@@ -41,6 +41,18 @@ My core prioritises are:
 
 ---
 
+### 🧱 Core Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,fastapi,postgres&perline=10" />
+</div>
+
+### 🧠 ML / Data
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,grafana,pytest&perline=10" />
+</div>
+
+---
+
 ## Toolbox
 
 <!-- OS / Env -->
