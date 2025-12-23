@@ -20,7 +20,6 @@ My core prioritises are:
 **Contact**
 
 * Email: [kirillhromov@mail.ru](mailto:kirillhromov@mail.ru)
-* Telegram: @FRIZFOREVER · Discord: frizforever
 <!-- * [LinkedIn]() -->
 * Time zone: UTC+3
 
