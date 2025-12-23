@@ -19,7 +19,7 @@ My core prioritises are:
 
 **Contact**
 
-* Email: [kirillkhromovml@gmail.com](mailto:kirillhromov@mail.ru)
+* Email: [kirillkhromovml@gmail.com](mailto:kirillkhromovml@gmail.com)
 <!-- * [LinkedIn]() -->
 * Time zone: UTC+3
 
