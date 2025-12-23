@@ -128,10 +128,10 @@ My core prioritises are:
 
 ## Dev Setup (for the curious)
 
-* OS: Fedora 42 • EndeavourOS (Wayland, Hyprland)
-* Editor: VS Code (zsh + oh‑my‑zsh; Neovim in terminal)
+* OS: Arch • EndeavourOS
+* Shell: zsh
+* Editor: Neovim
 * Containers: Docker, Compose
-* Dotfiles: [[Fedora 42]](https://github.com/FRIZFOREVER/frizforever)
 
 ---
 
