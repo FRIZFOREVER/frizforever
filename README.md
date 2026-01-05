@@ -21,7 +21,7 @@ My core prioritises are:
 
 * Email: [kirillkhromovml@gmail.com](mailto:kirillkhromovml@gmail.com)
 * LinkedIn: [LinkedIn/in/frizforever](https://www.linkedin.com/in/frizforever/)
-* Time zone: UTC+3
+* Time zone: GMT+3
 
 <!-- Widgets (active) -->
 
