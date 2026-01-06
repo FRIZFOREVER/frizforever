@@ -88,10 +88,8 @@ My core prioritises are:
 
 <!-- Observability / Evals -->
 
-![Langfuse](https://img.shields.io/badge/Langfuse-2E2E2E)
+![LangSmith](https://img.shields.io/badge/LangSmith-2E2E2E)
 ![pytest](https://img.shields.io/badge/pytest-tests-0A9EDC)
-![Ragas](https://img.shields.io/badge/Ragas-evals-6E56CF)
-![G--Eval](https://img.shields.io/badge/G--Eval-evals-334155)
 
 ---
 
