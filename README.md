@@ -6,8 +6,6 @@
 
 ![Capsule](https://capsule-render.vercel.app/api?type=waving\&height=160\&text=Friz\&fontAlign=50\&desc=RAG%20%7C%20Agents%20%7C%20NLP\&descAlign=50)
 
-I am focused on building **local‑first RAG and agentic systems** for production 
-
 ---
 
 <!-- Contact / quick links -->
@@ -29,7 +27,6 @@ I am focused on building **local‑first RAG and agentic systems** for productio
 ## Focus & Goals
 
 * **Core focus:** RAG ▸ Agents ▸ NLP
-* **Current goal:** Personal startup development
 * **Passion:** Everything about RAG
 * **Open to:** Work · Contribute · Contracting · Experience exchange
 
@@ -103,8 +100,8 @@ I am focused on building **local‑first RAG and agentic systems** for productio
 
 ## Experience & Education
 
-* Graduated from university
-* 5+ years of work experience
+* Graduated from university (masters degree)
+* 6+ years of work experience
 
 ---
 
