@@ -43,9 +43,7 @@ My core prioritises are:
 
 ### 🧰 Toolbox
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=neovim,linux,docker,git,postgres&perline=10" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,sklearn,grafana,pytest&perline=10" />
+  <img src="https://skillicons.dev/icons?i=neovim,linux,docker,git,postgres,py,fastapi,pytorch,sklearn,grafana,pytest&perline=10" />
   <br/>
 </div>
 
