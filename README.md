@@ -107,7 +107,7 @@
 
 ## Now
 
-* Currently working on my **startup project**
+* Open for offers
 
 ---
 
